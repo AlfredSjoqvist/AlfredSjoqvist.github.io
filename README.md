@@ -1,33 +1,51 @@
-<!-- Top section / intro -->
-<div style="max-width:900px;margin:0 auto;padding:24px 24px 16px 24px;border-radius:18px;border:1px solid #e4e4e4;background:#ffffff;">
-  <div style="display:flex;flex-wrap:wrap;align-items:center;gap:24px;">
+<!-- FontAwesome Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-    <!-- Text -->
-    <div style="flex:1 1 260px;min-width:260px;">
-      <p style="font-size:32px;font-weight:700;text-align:left;margin:0 0 10px 0;">
-        Alfred Sjöqvist
-      </p>
-      <p style="text-align:justify;margin:6px 0;">
-I’m a 4th-year Computer Engineering and Cognitive Science M.Sc student (dual degree) specializing in AI/ML. I’m passionate about designing technology that is elegant, trustworthy, and genuinely useful. If you’re building something exciting and need a collaborator, I’d love to connect!
-      </p>
-      <p style="text-align:left;margin-top:12px;">
-        <a href="mailto:alfred.sjoqvist@gmail.com" target="_blank">Email</a> &nbsp;/&nbsp;
-        <a href="https://www.linkedin.com/in/alfred-sjoqvist" target="_blank">LinkedIn</a> &nbsp;/&nbsp;
-        <a href="https://github.com/AlfredSjoqvist" target="_blank">GitHub</a>
-      </p>
-    </div>
+<!-- Intro Section -->
+<div style="max-width:900px;margin:0 auto;padding:28px 24px 10px 24px;display:flex;flex-wrap:wrap;align-items:center;gap:28px;">
 
-    <!-- Photo -->
-    <div style="flex:0 0 180px;text-align:center;">
-      <img
-        src="images/alfred-headshot.jpg"
-        alt="Alfred Sjöqvist"
-        style="width:170px;height:170px;border-radius:50%;object-fit:cover;"
-      />
-    </div>
+  <!-- Left block -->
+  <div style="flex:1 1 360px;min-width:260px;">
+    <p style="font-size:36px;font-weight:700;margin:0 0 14px 0;">
+      Alfred Sjöqvist
+    </p>
 
+    <p style="text-align:justify;margin:6px 0 14px 0;line-height:1.55;">
+      I’m a 4th-year Computer Engineering and Cognitive Science M.Sc student (dual degree) specializing in AI/ML. 
+      I’m passionate about designing technology that feels elegant, reliable, and genuinely helpful in the real world.
+      If you’re building something exciting and need a collaborator, I’d love to connect!
+    </p>
+
+    <!-- Icons row -->
+    <p style="margin-top:8px;font-size:17px;">
+      <a href="mailto:alfred.sjoqvist@gmail.com" target="_blank" style="margin-right:16px;text-decoration:none;">
+        <i class="fa-solid fa-envelope"></i> Email
+      </a>
+
+      <a href="https://www.linkedin.com/in/alfred-sjoqvist" target="_blank" style="margin-right:16px;text-decoration:none;">
+        <i class="fa-brands fa-linkedin"></i> LinkedIn
+      </a>
+
+      <a href="https://github.com/AlfredSjoqvist" target="_blank" style="text-decoration:none;">
+        <i class="fa-brands fa-github"></i> GitHub
+      </a>
+    </p>
   </div>
+
+  <!-- Photo -->
+  <div style="flex:0 0 240px;text-align:center;">
+    <img
+      src="images/alfred-headshot.jpg"
+      alt="Alfred Sjöqvist"
+      style="width:230px;height:230px;border-radius:50%;object-fit:cover;box-shadow:0 3px 12px rgba(0,0,0,0.18);"
+    />
+  </div>
+
 </div>
+
+<!-- Divider -->
+<hr style="border:none;height:1px;background-color:#ddd;width:94%;margin:18px auto 14px auto;" />
+
 
 <!-- Projects header -->
 <div style="max-width:900px;margin:26px auto 10px auto;padding:0 4px;">

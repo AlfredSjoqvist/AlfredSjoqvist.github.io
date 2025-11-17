@@ -59,9 +59,6 @@ I’m a 4th-year Computer Engineering and Cognitive Science M.Sc student (dual d
         </span>
       </a>
       <br/>
-      <span style="color:#666;font-size:14px;">
-        Axis Communications · Bachelor thesis (confidential code, public write-up)
-      </span>
       <p style="margin-top:8px;">
         A research project investigating secure and privacy-conscious processing of real-time metadata from surveillance cameras. Focuses on designing protected data flows, reliable communication layers, and interactive visualization tools that enable analysis across multiple camera sources without exposing sensitive details.
       </p>
@@ -147,7 +144,7 @@ I’m a 4th-year Computer Engineering and Cognitive Science M.Sc student (dual d
     <div style="flex:1 1 auto;min-width:0;">
       <a href="https://github.com/AlfredSjoqvist/traedet-genealogy-platform" target="_blank">
         <span style="font-weight:600;font-size:18px;">
-          Trädet: Bridging the Digital Divide by examining Genealogy Platforms
+          Trädet - Bridging the Digital Divide by examining Genealogy Platforms
         </span>
       </a>
       <p style="margin-top:8px;">
@@ -169,7 +166,7 @@ I’m a 4th-year Computer Engineering and Cognitive Science M.Sc student (dual d
     <div style="flex:1 1 auto;min-width:0;">
       <a href="https://github.com/AlfredSjoqvist/cohsort" target="_blank">
         <span style="font-weight:600;font-size:18px;">
-         CohSort: Can cohesion measures improve readability by reordering sentences?
+         CohSort - Can cohesion measures improve readability by reordering sentences?
         </span>
       </a>
       <p style="margin-top:8px;">

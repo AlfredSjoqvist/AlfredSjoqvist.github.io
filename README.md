@@ -18,8 +18,8 @@
               Always happy to talk about projects, research, or collaborations.
             </p>
             <p style="text-align:center;margin-top:10px;">
-              <a href="mailto:YOUR_EMAIL_HERE" target="_blank">Email</a> &nbsp;/&nbsp;
-              <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">LinkedIn</a> &nbsp;/&nbsp;
+              <a href="mailto:alfred.sjoqvist@gmail.com" target="_blank">Email</a> &nbsp;/&nbsp;
+              <a href="https://www.linkedin.com/in/alfred-sjoqvist" target="_blank">LinkedIn</a> &nbsp;/&nbsp;
               <a href="https://github.com/AlfredSjoqvist" target="_blank">GitHub</a>
             </p>
           </td>
@@ -55,20 +55,20 @@
       <table style="width:100%;border:0;border-spacing:0;border-collapse:separate;margin:0 auto;">
         <tbody>
 
-          <!-- 1. Secure camera / vision systems project -->
+          <!-- EagleEye - A Distributed Security Camera System -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/secure-vision.png"
-                alt="Secure Vision Systems"
+                src="images/eagleeye.png"
+                alt="EagleEye"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
               />
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://github.com/AlfredSjoqvist/secure-real-time-vision-systems" target="_blank">
+              <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1973658&dswid=-7574" target="_blank">
                 <span style="font-weight:600;font-size:18px;">
-                  Secure Real-Time Vision Systems
+                  EagleEye - A Distributed Security Camera System
                 </span>
               </a>
               <br/>
@@ -76,19 +76,17 @@
                 Axis Communications · Bachelor thesis (confidential code, public write-up)
               </span>
               <p style="margin-top:8px;">
-                Research project on processing and visualising multi-camera metadata in real time under strict
-                security and privacy constraints. Explores secure data flows, timing guarantees, privacy-aware
-                aggregation, and human-interpretable visual abstractions for surveillance environments.
+                A research project investigating secure and privacy-conscious processing of real-time metadata from surveillance cameras. Focuses on designing protected data flows, reliable communication layers, and interactive visualization tools that enable analysis across multiple camera sources without exposing sensitive details.
               </p>
             </td>
           </tr>
 
-          <!-- 2. Crypto forecasting -->
+          <!-- Cryptocurrency Price Forecasting with Deep Learning -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/crypto-forecasting.png"
-                alt="Crypto price forecasting"
+                src="images/crypto.png"
+                alt="Crypto"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
               />
@@ -96,22 +94,20 @@
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://github.com/AlfredSjoqvist/crypto-price-forecasting" target="_blank">
                 <span style="font-weight:600;font-size:18px;">
-                  Crypto Price Forecasting with Deep Learning
+                  Cryptocurrency Price Forecasting with Deep Learning
                 </span>
               </a>
               <p style="margin-top:8px;">
-                End-to-end PyTorch pipeline for short-horizon Bitcoin prediction. Includes Binance data ingestion,
-                technical indicators with <code>pandas_ta</code>, Kalman and wavelet denoising, GRU/LSTM models,
-                and backtesting with PnL curves and baseline comparisons.
+                Deep learning pipeline for forecasting short-horizon crypto price movements. Includes data preprocessing, engineered indicators, signal denoising, PyTorch models, and quantitative backtesting.
               </p>
             </td>
           </tr>
 
-          <!-- 3. Autonomous racecar embedded -->
+          <!-- Autonomous Embedded Model Racecar -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/autonomous-racecar.png"
+                src="images/racecar.png"
                 alt="Autonomous racecar"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
@@ -124,19 +120,17 @@
                 </span>
               </a>
               <p style="margin-top:8px;">
-                Full-stack robotics project combining embedded C/C++, Rust, and Python to control a model racecar.
-                Integrates LiDAR processing, mapping, and real-time control loops to drive autonomously through
-                cone-based tracks.
+                Autonomous model-car system integrating embedded C, Rust, Python, and LiDAR processing to achieve real-time mapping, sensing, and control. Designed as a full-stack robotics project with modular architecture covering sensing, actuation, communication, and GUI interaction.
               </p>
             </td>
           </tr>
 
-          <!-- 4. FPGA CPU + Blackjack -->
+          <!-- Microcoded Blackjack Computer -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/fpga-blackjack.png"
-                alt="FPGA Blackjack CPU"
+                src="images/blackjack.png"
+                alt="Blackjack"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
               />
@@ -148,18 +142,17 @@
                 </span>
               </a>
               <p style="margin-top:8px;">
-                Custom microcoded processor in VHDL with a hand-rolled instruction set, assembler, and memory
-                architecture. Demonstrated with a working Blackjack game running entirely on the FPGA.
+                A fully custom microcoded computer built from scratch on FPGA, complete with assembler, instruction set, memory architecture, and a working Blackjack game.
               </p>
             </td>
           </tr>
 
-          <!-- 5. Genealogy platform -->
+          <!-- Trädet: Bridging the Digital Divide by examining Genealogy Platforms -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/traedet-genealogy.png"
-                alt="Trädet genealogy platform"
+                src="images/traedet.png"
+                alt="Trädet"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
               />
@@ -167,18 +160,16 @@
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://github.com/AlfredSjoqvist/traedet-genealogy-platform" target="_blank">
                 <span style="font-weight:600;font-size:18px;">
-                  Trädet: Accessible Genealogy Platform
+                  Trädet: Bridging the Digital Divide by examining Genealogy Platforms
                 </span>
               </a>
               <p style="margin-top:8px;">
-                Full-stack web app for visualising family trees and historical records, designed around Nielsen’s
-                usability heuristics and accessibility principles. Built as part of a research project on usable
-                genealogy interfaces.
+                Trädet is a full-stack genealogy platform developed as part of a research project on accessibility and usability in complex data interfaces. Explores interaction design, data modeling, and inclusive UX to reduce barriers for users across the digital divide.
               </p>
             </td>
           </tr>
 
-          <!-- 6. CohSort NLP project -->
+          <!-- CohSort: Can cohesion measures improve readability by reordering sentences? -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
@@ -191,23 +182,21 @@
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://github.com/AlfredSjoqvist/cohsort" target="_blank">
                 <span style="font-weight:600;font-size:18px;">
-                  CohSort: Cohesion-Aware Sentence Reordering
+                 CohSort: Can cohesion measures improve readability by reordering sentences?
                 </span>
               </a>
               <p style="margin-top:8px;">
-                Research code for an NLP system that reorders sentences in news summaries using cohesion metrics
-                built from LSA, SBERT embeddings, and simulated annealing, exploring how text structure affects
-                readability.
+                Research code for CohSort, an NLP system that reorders sentences in news summaries using Coh-Metrix style cohesion metrics (LSA + SBERT + L2) and simulated annealing. Accompanies the paper “Can automatic cohesion measures improve the readability of summaries by reordering their sentences?”.
               </p>
             </td>
           </tr>
 
-          <!-- 7. Amazon sentiment analysis -->
+          <!-- Amazon Sentiment Analysis -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
               <img
-                src="images/amazon-sentiment.png"
-                alt="Amazon sentiment analysis"
+                src="images/amazon.png"
+                alt="Amazon"
                 width="160"
                 style="border-radius:8px;object-fit:cover;"
               />
@@ -215,13 +204,11 @@
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://github.com/AlfredSjoqvist/amazon-sentiment-analysis" target="_blank">
                 <span style="font-weight:600;font-size:18px;">
-                  Amazon Review Sentiment Analysis
+                  Amazon Sentiment Analysis
                 </span>
               </a>
               <p style="margin-top:8px;">
-                Classic NLP pipeline in Python using <code>scikit-learn</code> with custom text preprocessing,
-                TF-IDF features, and multiple classifiers (logistic regression, Naive Bayes, decision trees,
-                gradient boosting) evaluated on large review data.
+                Sentiment analysis using a custom text preprocessing pipeline and multiple scikit learn classifiers, including logistic regression, Naive Bayes, decision trees, and gradient boosting.
               </p>
             </td>
           </tr>

@@ -83,6 +83,28 @@
     </div>
   </div>
 
+  <div style="display:flex;gap:16px;padding:16px 16px;border-radius:12px;border:1px solid #eeeeee;background:#fafafa;margin-bottom:10px;">
+    <div style="flex:0 0 160px;text-align:center;">
+      <img
+        src="images/ecomind.png"
+        alt="EcoMind"
+        width="160"
+        style="border-radius:10px;object-fit:cover;"
+      />
+    </div>
+    <div style="flex:1 1 auto;min-width:0;">
+      <a href="https://www.eco-mind.tech/" target="_blank">
+        <span style="font-weight:600;font-size:18px;">
+          EcoMind - AI Environmental Impact Tracker & Optimizer
+        </span>
+      </a>
+      <p style="margin-top:8px;">
+        <strong>🏆 Winner: Best Hack for Climate Action & Broxi AI Prize (SF Hacks 2026).</strong> 
+        A full-stack observability suite (Chrome extension, VS Code extension, MCP server, and Dashboard) that audits LLM usage in real-time. It translates abstract token counts into tangible environmental metrics (energy, water, CO₂) and actively reduces AI carbon footprints using vector-based semantic caching and prompt compression.
+      </p>
+    </div>
+  </div>
+
   <!-- Cryptocurrency Price Forecasting with Deep Learning -->
   <div style="display:flex;gap:16px;padding:16px 16px;border-radius:12px;border:1px solid #eeeeee;background:#fafafa;margin-bottom:10px;">
     <div style="flex:0 0 160px;text-align:center;">
